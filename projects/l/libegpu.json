@@ -2,7 +2,7 @@
   "name": "Libegpu",
   "homepage": "https://libegpu.dev",
   "shortdesc": {
-    "en": "Libegpu is a library for enumerating eGPU devices & enclosures"
+    "en": "Libegpu is a library for enumerating eGPU devices & enclosures."
   },
   "download-page": "https://crates.io/crates/egpu",
   "repository": {

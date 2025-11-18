@@ -30,6 +30,7 @@
 | [jsonlib](https://github.com/WaterJuice/JsonLib) | This C library provides a simple mechanism for marshalling and unmarshalling C structures to and from JSON or JSON5. | [:link:](https://github.com/WaterJuice/JsonLib) [:arrow_down:]() |
 | [Kakoune](https://kakoune.org) | An experimental text editor heavily inspired by Vim. | [:link:](https://github.com/mawww/kakoune) [:arrow_down:](https://github.com/mawww/kakoune/releases) |
 | [Lemon](http://www.hwaci.com/sw/lemon/) | A thread-safe LALR(1) parser generator. | N/A [:arrow_down:]() |
+| [Libegpu](https://libegpu.dev) | Libegpu is a library for enumerating eGPU devices & enclosures. | [:link:](https://github.com/artob/libegpu) [:arrow_down:](https://crates.io/crates/egpu) |
 | [LibTomCrypt](https://www.libtom.net/LibTomCrypt/) | A fairly comprehensive, modular and portable cryptographic toolkit. | [:link:](https://github.com/libtom/libtomcrypt) [:arrow_down:]() |
 | [LibTomFloat](https://www.libtom.net/LibTomFloat/) | A library that provides multiple precision floating point arithmetic. | [:link:](https://github.com/libtom/libtomfloat) [:arrow_down:]() |
 | [LibTomMath](https://www.libtom.net/LibTomMath/) | A portable number theoretic multiple-precision integer library written entirely in C. | [:link:](https://github.com/libtom/libtommath) [:arrow_down:]() |
