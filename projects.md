@@ -2,9 +2,11 @@
 | :------ | :------ | ----: |
 | [anaphoric-variants](https://www.hexstreamsoft.com/libraries/anaphoric-variants/) | Gives access to anaphoric variants of operators through one macro: ANAPHORIC. The user explicitly provides a variable name, preserving sanity, in contrast to the traditional use of an evil implicit variable ("IT"). Some operators can bind additional handy variables when explicitly requested. | [:link:](https://github.com/Hexstream/anaphoric-variants) [:arrow_down:]() |
 | [asciiart](https://github.com/frankbraun/asciiart) | Parser for hierarchical ASCII art. | [:link:](https://github.com/frankbraun/asciiart) [:arrow_down:]() |
-| [ASIMOV Command-Line Interface (CLI)](https://cli.asimov.so) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-cli) [:arrow_down:](https://github.com/asimov-platform) |
-| [ASIMOV Software Development Kit (SDK)](https://sdk.asimov.so) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov.rs) [:arrow_down:](https://github.com/asimov-platform) |
-| [ASIMOV Platform](https://asimov.so) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-universe) [:arrow_down:](https://github.com/asimov-platform) |
+| [ASIMOV](https://asimov.sh) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-cli) [:arrow_down:](https://github.com/asimov-platform) |
+| [ASIMOV CLI](https://cli.asimov.sh) | ASIMOV Command-Line Interface (CLI) | [:link:](https://github.com/asimov-platform/asimov-cli) [:arrow_down:](https://github.com/asimov-platform) |
+| [ASIMOV SDK](https://sdk.asimov.sh) | ASIMOV Software Development Kit (SDK) | [:link:](https://github.com/asimov-platform/asimov-sdk) [:arrow_down:](https://github.com/asimov-platform) |
+| [ASIMOV.js](https://www.npmjs.com/package/asimov.js) | ASIMOV Software Development Kit (SDK) for JavaScript | [:link:](https://github.com/asimov-platform/asimov.js) [:arrow_down:](https://www.npmjs.com/package/asimov.js) |
+| [ASIMOV.py](https://pypi.org/project/asimov.py/) | ASIMOV Software Development Kit (SDK) for Python | [:link:](https://github.com/asimov-platform/asimov.py) [:arrow_down:](https://pypi.org/project/asimov.py/) |
 | [ASIMOV.rb](https://rubygems.org/gems/asimov.rb) | ASIMOV Software Development Kit (SDK) for Ruby | [:link:](https://github.com/asimov-platform/asimov.rb) [:arrow_down:](https://rubygems.org/gems/asimov.rb) |
 | [ASIMOV.rs](https://crates.io/crates/asimov-sdk) | ASIMOV Software Development Kit (SDK) for Rust | [:link:](https://github.com/asimov-platform/asimov.rs) [:arrow_down:](https://crates.io/crates/asimov-sdk) |
 | [Borsh.rb](https://rubygems.org/gems/borsh) | A Ruby library for encoding and decoding data in the Borsh binary serialization format designed for security-critical projects where consistency, safety, and performance matter. | [:link:](https://github.com/dryruby/borsh.rb) [:arrow_down:](https://rubygems.org/gems/borsh) |
@@ -28,6 +30,7 @@
 | [jsonlib](https://github.com/WaterJuice/JsonLib) | This C library provides a simple mechanism for marshalling and unmarshalling C structures to and from JSON or JSON5. | [:link:](https://github.com/WaterJuice/JsonLib) [:arrow_down:]() |
 | [Kakoune](https://kakoune.org) | An experimental text editor heavily inspired by Vim. | [:link:](https://github.com/mawww/kakoune) [:arrow_down:](https://github.com/mawww/kakoune/releases) |
 | [Lemon](http://www.hwaci.com/sw/lemon/) | A thread-safe LALR(1) parser generator. | N/A [:arrow_down:]() |
+| [Libegpu](https://libegpu.dev) | Libegpu is a library for enumerating eGPU devices & enclosures. | [:link:](https://github.com/artob/libegpu) [:arrow_down:](https://crates.io/crates/egpu) |
 | [LibTomCrypt](https://www.libtom.net/LibTomCrypt/) | A fairly comprehensive, modular and portable cryptographic toolkit. | [:link:](https://github.com/libtom/libtomcrypt) [:arrow_down:]() |
 | [LibTomFloat](https://www.libtom.net/LibTomFloat/) | A library that provides multiple precision floating point arithmetic. | [:link:](https://github.com/libtom/libtomfloat) [:arrow_down:]() |
 | [LibTomMath](https://www.libtom.net/LibTomMath/) | A portable number theoretic multiple-precision integer library written entirely in C. | [:link:](https://github.com/libtom/libtommath) [:arrow_down:]() |
